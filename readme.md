@@ -1,0 +1,1 @@
+This is a practice on flask following [this tutorial!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
